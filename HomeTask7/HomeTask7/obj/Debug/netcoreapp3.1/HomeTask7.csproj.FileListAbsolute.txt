@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\HomeTask7\HomeTask7\HomeTask7\obj\Debug\netcoreapp3.1\HomeTask7.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\HomeTask7\HomeTask7\HomeTask7\obj\Debug\netcoreapp3.1\HomeTask7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\HomeTask7\HomeTask7\HomeTask7\obj\Debug\netcoreapp3.1\HomeTask7.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\HomeTask7\HomeTask7\HomeTask7\obj\Debug\netcoreapp3.1\HomeTask7.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\HomeTask7\HomeTask7\HomeTask7\obj\Debug\netcoreapp3.1\HomeTask7.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\HomeTask7\HomeTask7\HomeTask7\bin\Debug\netcoreapp3.1\HomeTask7.exe
+C:\Users\ASUS\Desktop\HomeTask7\HomeTask7\HomeTask7\bin\Debug\netcoreapp3.1\HomeTask7.deps.json
+C:\Users\ASUS\Desktop\HomeTask7\HomeTask7\HomeTask7\bin\Debug\netcoreapp3.1\HomeTask7.runtimeconfig.json
+C:\Users\ASUS\Desktop\HomeTask7\HomeTask7\HomeTask7\bin\Debug\netcoreapp3.1\HomeTask7.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\HomeTask7\HomeTask7\HomeTask7\bin\Debug\netcoreapp3.1\HomeTask7.dll
+C:\Users\ASUS\Desktop\HomeTask7\HomeTask7\HomeTask7\bin\Debug\netcoreapp3.1\HomeTask7.pdb
+C:\Users\ASUS\Desktop\HomeTask7\HomeTask7\HomeTask7\obj\Debug\netcoreapp3.1\HomeTask7.dll
+C:\Users\ASUS\Desktop\HomeTask7\HomeTask7\HomeTask7\obj\Debug\netcoreapp3.1\HomeTask7.pdb
+C:\Users\ASUS\Desktop\HomeTask7\HomeTask7\HomeTask7\obj\Debug\netcoreapp3.1\HomeTask7.genruntimeconfig.cache
